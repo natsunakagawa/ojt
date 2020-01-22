@@ -1,0 +1,22 @@
+①
+ 
+autenticate_userの使用　⇒　〇
+
+user_signed_inの使用　⇒　〇
+
+flashメッセージの表示　⇒　〇
+
+rspec User infoの表示　⇒　×
+
+link_to doの使い方　⇒　〇
+
+if文 @user==current_user　⇒　〇
+
+User#showの表示　⇒　×
+
+emailが登録されないエラー　⇒　×
+
+
+
+
+ 
